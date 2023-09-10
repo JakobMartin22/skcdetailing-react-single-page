@@ -1,18 +1,16 @@
 {
-  "main.css": "/skcdetailing-react-single-page/static/css/main.c3a90514.chunk.css",
-  "main.js": "/skcdetailing-react-single-page/static/js/main.2205a8c9.chunk.js",
-  "main.js.map": "/skcdetailing-react-single-page/static/js/main.2205a8c9.chunk.js.map",
-  "static/js/1.434376a2.chunk.js": "/skcdetailing-react-single-page/static/js/1.434376a2.chunk.js",
-  "static/js/1.434376a2.chunk.js.map": "/skcdetailing-react-single-page/static/js/1.434376a2.chunk.js.map",
-  "static/css/2.f0cccbc6.chunk.css": "/skcdetailing-react-single-page/static/css/2.f0cccbc6.chunk.css",
-  "static/js/2.73df4bdc.chunk.js": "/skcdetailing-react-single-page/static/js/2.73df4bdc.chunk.js",
-  "static/js/2.73df4bdc.chunk.js.map": "/skcdetailing-react-single-page/static/js/2.73df4bdc.chunk.js.map",
-  "runtime~main.js": "/skcdetailing-react-single-page/static/js/runtime~main.157a21f1.js",
-  "runtime~main.js.map": "/skcdetailing-react-single-page/static/js/runtime~main.157a21f1.js.map",
-  "static/media/logo.png": "/skcdetailing-react-single-page/static/media/logo.ce41d0e1.png",
-  "static/css/main.c3a90514.chunk.css.map": "/skcdetailing-react-single-page/static/css/main.c3a90514.chunk.css.map",
-  "static/css/2.f0cccbc6.chunk.css.map": "/skcdetailing-react-single-page/static/css/2.f0cccbc6.chunk.css.map",
-  "index.html": "/skcdetailing-react-single-page/index.html",
-  "precache-manifest.f78db3919de427477c81f05d0940e254.js": "/skcdetailing-react-single-page/precache-manifest.f78db3919de427477c81f05d0940e254.js",
-  "service-worker.js": "/skcdetailing-react-single-page/service-worker.js"
+  "files": {
+    "main.css": "/skcdetailing-react-single-page/static/css/main.da88a118.css",
+    "main.js": "/skcdetailing-react-single-page/static/js/main.4ce8ddcb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/skcdetailing-react-single-page/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/skcdetailing-react-single-page/static/media/logo.c8b816d4d1acfa662079.png",
+    "index.html": "/skcdetailing-react-single-page/index.html",
+    "main.da88a118.css.map": "/skcdetailing-react-single-page/static/css/main.da88a118.css.map",
+    "main.4ce8ddcb.js.map": "/skcdetailing-react-single-page/static/js/main.4ce8ddcb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/skcdetailing-react-single-page/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da88a118.css",
+    "static/js/main.4ce8ddcb.js"
+  ]
 }
